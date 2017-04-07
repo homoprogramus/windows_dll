@@ -1,0 +1,3 @@
+LIBRARY "hello_dll"
+EXPORTS
+		Hello_hello = ?hello@Hello@@SAXXZ
